@@ -158,7 +158,7 @@ function App() {
         <div className="certifications"><p className="section-kicker">( Certifications & training )</p><div>{certifications.map((item, index) => <span key={item}><b>{String(index + 1).padStart(2, '0')}</b>{item}</span>)}</div></div>
       </section>
 
-      <footer className="footer"><p className="section-kicker">( Build with confidence )</p><h2>Let's make<br /><i>quality</i><br />visible.</h2><a className="footer-mail" href="mailto:mailtodaniyal11@gmail.com">mailtodaniyal11@gmail.com <Arrow /></a><a className="footer-phone" href="tel:+923422909366">0342-2909366 <Arrow /></a><div className="footer-base"><span>© 2026 DANIYAL ASIF</span><span>QA · PRODUCT · AUTOMATION</span><a className="linkedin-link" href="https://linkedin.com/in/muhammad-daniyal-asif6b99b1204" target="_blank" rel="noreferrer">LINKEDIN ↗</a><a href="#top">BACK TO TOP ↑</a></div></footer>
+      <footer className="footer"><h2>Let's make<br /><i>quality</i><br />visible.</h2><a className="footer-mail" href="mailto:mailtodaniyal11@gmail.com"><span className="contact-icon" aria-hidden="true">&#9993;</span> mailtodaniyal11@gmail.com <Arrow /></a><a className="footer-phone" href="tel:+923422909366"><span className="contact-icon" aria-hidden="true">&#9742;</span> 0342-2909366 <Arrow /></a><div className="footer-base"><span>© 2026 DANIYAL ASIF</span><span>QA · PRODUCT · AUTOMATION</span><a className="linkedin-link" href="https://linkedin.com/in/muhammad-daniyal-asif6b99b1204" target="_blank" rel="noreferrer">LINKEDIN ↗</a><a href="#top">BACK TO TOP ↑</a></div></footer>
     </main>
   )
 }
