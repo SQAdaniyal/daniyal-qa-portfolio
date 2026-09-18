@@ -39,7 +39,7 @@ const recognitions = [
 
 const impactPoints = [
   ['89%', 'SaaS quality outcome', 'Tested a SaaS-based model and achieved 89% software quality through structured QA processes.'],
-  ['MANY', 'QA processes built', 'Built and implemented multiple QA processes around delivery, testing and release quality.'],
+  ['MULTIPLE', 'QA processes built', 'Built and implemented multiple QA processes around delivery, testing and release quality.'],
   ['4+', 'Years in QA & product', 'Progressed from manual testing to automation leadership and product ownership.'],
 ]
 
