@@ -38,8 +38,8 @@ const recognitions = [
 ]
 
 const impactPoints = [
-  ['85–90%', 'Reported project outcome', 'Improved software quality through structured QA ownership and process implementation at JSI.'],
-  ['01', 'QA system built', 'Designed and implemented repeatable QA processes around delivery and release quality.'],
+  ['89%', 'SaaS quality outcome', 'Tested a SaaS-based model and achieved 89% software quality through structured QA processes.'],
+  ['MANY', 'QA processes built', 'Built and implemented multiple QA processes around delivery, testing and release quality.'],
   ['4+', 'Years in QA & product', 'Progressed from manual testing to automation leadership and product ownership.'],
 ]
 
